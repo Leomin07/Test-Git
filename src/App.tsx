@@ -6,6 +6,7 @@ const App = () => {
         <div>
             <Nav />
             <p>se co confict</p>
+            <p>sdfsf</p>
         </div>
     );
 };
