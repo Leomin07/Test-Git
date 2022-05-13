@@ -5,6 +5,7 @@ const App = () => {
     return (
         <div>
             <Nav />
+            <p>se co confict</p>
         </div>
     );
 };
