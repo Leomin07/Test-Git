@@ -7,6 +7,8 @@ const App = () => {
             <Nav />
             <p>se co confict</p>
             <p>sdfsf</p>
+            <p>minh dep trai vai</p>
+            <h2>sdfssdfdf</h2>
         </div>
     );
 };
